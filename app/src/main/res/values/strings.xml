@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Room Basic Application</string>
+    <string name="title">Daftar antrian dokter umum</string>
+    <string name="title_nama_depan">Nama Depan</string>
+    <string name="title_nama_belakang">Nama Belakang</string>
+    <string name="title_simpan">SIMPAN</string>
+    <string name="title_lihat_antrian">LIHAT ANTRIAN</string>
+    <string name="title_number">0</string>
+    <string name="title_first_name_last_name">First Name - Last Name</string>
+    <string name="concate_name">%s %s</string>
+    <string name="empty_state_first_name">Masukkan nama depan</string>
+    <string name="empty_state_last_name">Masukkan nama belakang</string>
+</resources>
